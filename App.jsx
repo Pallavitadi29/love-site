@@ -180,11 +180,10 @@ export default function App() {
   );
 
   const questionText3 = useInfiniteTypewriter(
-    "Happy Valentine’s Day, My Love #PPForever 💖",
+    "Happy Valentine’s Day, My Love #PP Forever 💖",
     70,
     2000
   );
-
 
   return (
     <div style={styles.wrapper}>
